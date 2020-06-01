@@ -1,6 +1,6 @@
 # Python-basic
 
-## 산업융합형 인공지능 청년혁신가 양성 과정 파이썬 입문 
+## 산업융합형 인공지능 청년혁신가 양성 과정 파이썬 기초
 
 ## (AI Youth Innovator Training Course)
 
